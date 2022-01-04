@@ -1,0 +1,4 @@
+
+create database vaishnavi;
+databases/vaishnavi	create table orders(order_id int,order_name varchar(100));
+databases/vaishnavi	create table shops(shop_id int,shop_name varchar(100));

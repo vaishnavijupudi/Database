@@ -1,0 +1,2 @@
+customer_id--int
+customer_name--varchar(100)

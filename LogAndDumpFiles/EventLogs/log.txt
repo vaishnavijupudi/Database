@@ -1,0 +1,86 @@
+yashvi@dal.ca	csci5308	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	csci5001	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db1	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	data	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	d	Database Created Successfully!	Executed in 1ms
+yashvi@dal.ca	update ttt set lname='sareen' where id=1	Query executed successfully! Executed in 80ms
+yashvi@dal.ca	db2	Database Created Successfully!	Executed in 9ms
+yashvi@dal.ca	db3	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db5	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db6	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db1	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db2	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db2	Database Created Successfully!	Executed in 1ms
+yashvi@dal.ca	db3	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db	Database Created Successfully!	Executed in 20ms
+yashvi@dal.ca	db1	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db2	Database Created Successfully!	Executed in 1ms
+v@dal.ca	db3	Database Created Successfully!	Executed in 0ms
+d@dal.ca	db4	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca		Table Created Successfully!	Executed in 1ms
+v@dal.ca		Table Created Successfully!	Executed in 1ms
+d@dal.ca		Table Created Successfully!	Executed in 2ms
+yashvi@dal.ca		Table Created Successfully!	Executed in 27ms
+yashvi@dal.ca		Table Created Successfully!	Executed in 1ms
+yashvi@dal.ca	Yashvi	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca		Table Created Successfully!	Executed in 1ms
+yashvi@dal.ca	db	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	db	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca		Table Created Successfully!	Executed in 2ms
+yashvi@dal.ca	yashvi	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca		Table Created Successfully!	Executed in 1ms
+d@dal.ca	deeksha	Database Created Successfully!	Executed in 0ms
+d@dal.ca		Table Created Successfully!	Executed in 1ms
+v@dal.ca	vaishnavi	Database Created Successfully!	Executed in 0ms
+v@dal.ca		Table Created Successfully!	Executed in 2ms
+yashvi@dal.ca		Table Created Successfully!	Executed in 1ms
+yashvi@dal.ca	db	Database Created Successfully!	Executed in 0ms
+yashvi@dal.ca	Row insertion successfull	Executed in 9ms
+yashvi@dal.ca	db	Database Created Successfully!	Executed in 1ms
+yashvi@dal.ca	Row insertion successfull	Executed in 7ms
+yashvi@dal.ca	Row insertion successfull	Executed in 17ms
+yashvi@dal.ca	Row insertion successfull	Executed in 5ms
+d@dal.ca		Table Created Successfully!	Executed in 17ms
+d@dal.ca		Table Created Successfully!	Executed in 2ms
+v@dal.ca		Table Created Successfully!	Executed in 17ms
+v@dal.ca	Table deleted successfully	Executed in 13372ms
+yashvi@dal.ca	db2	Database Created Successfully!	Executed in 0ms
+deekshasareen@gmail.com	Table already exists! Executed in 190ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 24ms
+deekshasareen@gmail.com	Table already exists! Executed in 30ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 65ms
+deekshasareen@gmail.com	Table already exists! Executed in 1ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 1ms
+deekshasareen@gmail.com	Table already exists! Executed in 2ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 2ms
+deekshasareen@gmail.com	Table already exists! Executed in 2728ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 2ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 42ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com		Table Created Successfully!	Executed in 22ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 2ms
+deekshasareen@gmail.com	Table already exists! Executed in 2ms
+deekshasareen@gmail.com	Table already exists! Executed in 1ms
+deekshasareen@gmail.com	Table already exists! Executed in 1ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 28ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 41ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 2ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 67ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 4ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 92ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 23ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 23ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 2ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 2ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 3ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 2ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 26ms
+deekshasareen@gmail.com	Row insertion successfull	Executed in 1ms

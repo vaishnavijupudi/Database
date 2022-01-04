@@ -1,0 +1,2 @@
+order_id--int
+order_name--varchar(100)

@@ -1,0 +1,24 @@
+Enter your favourite color:blue yashvi@dal.ca
+Enter your favourite animal:cat yashvi@dal.ca
+Enter your favourite food:pasta yashvi@dal.ca
+
+Enter your favourite color:red d@dal.ca
+Enter your favourite animal:dog d@dal.ca
+Enter your favourite food:pizza d@dal.ca
+
+
+Favourite color:pink v@dal.ca
+Favourite animal:cat v@dal.ca
+Favourite food:italian v@dal.ca
+
+Enter your favourite color:pink deekshasareen@gmail.com
+Enter your favourite animal:dog deekshasareen@gmail.com
+Enter your favourite food:pasta deekshasareen@gmail.com
+
+Enter your favourite color:yellow sofia@gmail.com
+Enter your favourite animal:zebra sofia@gmail.com
+Enter your favourite food:spagetti sofia@gmail.com
+
+Enter your favourite color:green k@dal.ca
+Enter your favourite animal:pig k@dal.ca
+Enter your favourite food:pizzza k@dal.ca

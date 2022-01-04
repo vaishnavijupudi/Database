@@ -1,0 +1,4 @@
+id--int--primary--key
+--name--varchar(100)
+--number--int
+--foreign--key--name--references--test(last_name)

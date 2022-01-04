@@ -1,0 +1,4 @@
+id--INT--PRIMARY--KEY
+--name--VARCHAR(100)
+--last_name--VARCHAR(100)
+--FOREIGN--KEY--last_name--REFERENCES--test(last_name)

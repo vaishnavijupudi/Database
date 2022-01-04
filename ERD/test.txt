@@ -1,0 +1,17 @@
+Table_Name = demo
+id--int--primary--key
+--name--varchar(100)
+--number--int
+--foreign--key--name--references--test(last_name)
+-----------------------------------------------------------------
+Table_Name = student
+id--INT--PRIMARY--KEY
+--name--VARCHAR(100)
+--last_name--VARCHAR(100)
+--FOREIGN--KEY--last_name--REFERENCES--test(last_name)
+-----------------------------------------------------------------
+Table_Name = test
+id--INT--PRIMARY--KEY
+--name--VARCHAR(100)
+--last_name--VARCHAR(100)
+-----------------------------------------------------------------

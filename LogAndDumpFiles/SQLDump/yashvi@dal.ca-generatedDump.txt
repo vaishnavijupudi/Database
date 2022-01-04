@@ -1,0 +1,13 @@
+
+create database yashvi;
+databases/yashvi	create table books(book_id int,book_name varchar(100));
+databases/yashvi	create table products(product_id int,product_name varchar(100));
+create database db;
+databases/db	create table t1(id int);
+create database db;
+databases/db	create table t1(id int);
+databases/test	insert into student (id, name ,last_name) values (3,'Vaishnavi','Jupudi');
+databases/test	insert into student (id, name, last_name) values (3,'Deeksha','Sareen');
+databases/test	insert into student (id, name, last_name) values (4,'Deeksha','Sareen');
+create database db2;
+databases/yashvi	insert into books (book_id, book_name) values (1, 'book1');

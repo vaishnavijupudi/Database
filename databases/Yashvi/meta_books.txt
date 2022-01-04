@@ -1,0 +1,2 @@
+book_id--int
+book_name--varchar(100)

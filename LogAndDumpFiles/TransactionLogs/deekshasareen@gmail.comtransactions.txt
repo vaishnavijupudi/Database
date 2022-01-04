@@ -1,0 +1,12 @@
+select * from deeksha where id = 1 or id = 2;
+insert into demo (id, name ,last_name) values (1,'Deeksha', 'Sareen');
+insert into demo (id, name ,number) values (1,'Deeksha', 2345);
+select * from deeksha where id = 1 or id = 2;
+insert into demo (id, name ,number) values (1,'Deeksha', 2345);
+select * from deeksha where id = 1 or id = 2;
+2commit;
+
+insert into demo (id, name ,number) values (1,'Deeksha', 2345);
+select * from deeksha where id = 1 or id = 2;
+select * from deeksha;
+insert into student (id, name, last_name) values (6, 'testcase' ,'testvalue');

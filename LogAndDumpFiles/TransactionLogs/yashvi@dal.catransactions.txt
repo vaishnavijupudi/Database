@@ -1,0 +1,6 @@
+select * from books;
+select * from products;
+insert into books(bood_id,book_name) values (1,'book1');
+select * from books;
+insert into books (book_id, book_name) values (1, 'book1');
+select * from books;
